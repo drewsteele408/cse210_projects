@@ -14,4 +14,3 @@ This repository contains the starter code for many different projects. They are 
   words are hidden in the verse. The loop will go until the random number is reached and then hide the word and add the counter
   at the end.
 
-- 
